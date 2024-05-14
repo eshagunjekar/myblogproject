@@ -30,3 +30,6 @@ A seamless post creation process is facilitated through a user-friendly modal in
 --->Post owners are exclusively endowed with the authority to delete their respective posts.
 --->Convenient logout functionality ensures smooth user experience transitions.
 --->Guest users can seamlessly navigate and explore the platform's diverse content offerings.
+
+![image](https://github.com/eshagunjekar/myblogproject/assets/109014732/e081876d-5030-47d3-8afe-86fe9e44040c)
+
